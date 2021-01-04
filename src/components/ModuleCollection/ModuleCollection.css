@@ -1,0 +1,26 @@
+#module-collection-container {
+  width: 550px;
+  height: 250px;
+  background-color: pink;
+  display: grid;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(5, 45px);
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+  margin: 10px;
+}
+
+.mod-slot {
+  width: 85px;
+  height: 30px;
+  margin: 3px;
+  border: 1px solid #aaaaaa;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,12 @@
+.module-block {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 80px;
+  height: 25px;
+  background-color: salmon;
+}
