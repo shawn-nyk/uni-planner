@@ -1,12 +1,11 @@
-.module-block {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  justify-items: center;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-  width: 80px;
-  height: 25px;
-  background-color: salmon;
+.foundation {
+  background-color: rgb(238, 165, 8);
+}
+
+.itp {
+  background-color: rgb(236, 139, 236);
+}
+
+.mns {
+  background-color: rgb(32, 214, 190);
 }

@@ -1,3 +1,12 @@
+@import url("https://use.typekit.net/uif4lwi.css");
+
+p {
+  font-family: museo-sans, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  font-style: normal;
+}
+
 .App {
   display: flex;
   flex-direction: row;
@@ -9,6 +18,33 @@
   align-items: center;
 }
 
+.mod-slot {
+  width: 85px;
+  height: 30px;
+  margin: 3px;
+  border: 1px solid #aaaaaa;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+}
+
 body {
-  background-color: grey;
+  background-color: #011652;
+}
+
+.module-block {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 80px;
+  height: 25px;
+  border-radius: 6px;
 }

@@ -1,26 +1,45 @@
-#module-collection-container {
-  width: 550px;
-  height: 250px;
-  background-color: pink;
-  display: grid;
-  grid-template-columns: repeat(5, 100px);
-  grid-template-rows: repeat(5, 45px);
-  justify-content: center;
-  align-content: center;
-  align-items: center;
-  justify-items: center;
-  margin: 10px;
+p {
+  padding: 10px;
 }
 
-.mod-slot {
-  width: 85px;
-  height: 30px;
-  margin: 3px;
-  border: 1px solid #aaaaaa;
+.module-collection-container > p {
+  margin-bottom: -5px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.module-collection-container {
+  background-color: #dde4e9;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.module-collection-grid {
+  padding-bottom: 10px;
+  display: grid;
   justify-content: center;
   align-content: center;
   align-items: center;
   justify-items: center;
-  display: flex;
-  flex-direction: column;
+}
+
+#foundation-modules {
+  width: 550px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
+}
+
+#itp-modules {
+  width: 550px;
+  height: 60px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(1, 45px);
+}
+
+#mns-modules {
+  width: 550px;
+  height: 60px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(1, 45px);
 }

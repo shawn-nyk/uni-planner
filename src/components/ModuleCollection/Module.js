@@ -8,7 +8,7 @@ const mod = (props) => {
   }
 
   return (
-    <div id={props.modName} draggable="true" onDragStart={drag} className="module-block">
+    <div id={props.modName} draggable="true" onDragStart={drag} className={["module-block", props.modCategory].join(" ")}>
       <p>{props.modName}</p>
     </div>
   );

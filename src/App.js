@@ -1,13 +1,14 @@
-import React from 'react';
+import React from "react";
 import './App.css';
-import Year from "./components/Schedule/Year";
 import ModuleCollection from "./components/ModuleCollection/ModuleCollection";
+import Schedule from "./components/Schedule/Schedule";
 
 function App() {
+
   return (
     <div className="App">
       <ModuleCollection />
-      <Year />
+      <Schedule />
     </div>
   );
 }
