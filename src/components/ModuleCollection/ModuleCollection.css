@@ -1,15 +1,47 @@
-p {
-  padding: 10px;
+.entire-container {
+  height: 520px;
+  margin-top: 14px;
+  margin-right: 10px;
+  padding-left: 10px;
+  background-color: #aecec3;
+  border-radius: 12px;
+  overflow-y: scroll;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ddd;
+  border-radius: 8px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ccc;
 }
 
 .module-collection-container > p {
   margin-bottom: -5px;
-  font-size: 20px;
-  font-weight: 700;
+  font-family: kopius, serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  padding: 10px;
+  color: #31423c;
 }
 
 .module-collection-container {
-  background-color: #dde4e9;
+  background-color: #d9ede7;
+  width: 550px;
   margin: 10px;
   border-radius: 10px;
 }
@@ -23,23 +55,138 @@ p {
   justify-items: center;
 }
 
+#ulr-modules {
+  background-color: rgb(240, 214, 160);
+  border-radius: 10px;
+  height: 150px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(3, 45px);
+}
+
 #foundation-modules {
-  width: 550px;
+  background-color: rgb(240, 214, 160);
+  border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);
   grid-template-rows: repeat(2, 45px);
 }
 
 #itp-modules {
-  width: 550px;
+  background-color: rgb(253, 204, 253);
+  border-radius: 10px;
   height: 60px;
   grid-template-columns: repeat(5, 100px);
   grid-template-rows: repeat(1, 45px);
 }
 
 #mns-modules {
-  width: 550px;
+  background-color: rgb(174, 245, 236);
+  border-radius: 10px;
   height: 60px;
   grid-template-columns: repeat(5, 100px);
   grid-template-rows: repeat(1, 45px);
+}
+
+#ue-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
+}
+
+#algo-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 200px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(4, 45px);
+}
+
+#ai-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 200px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(4, 45px);
+}
+
+#graphics-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 200px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(4, 45px);
+}
+
+#sec-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 200px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(4, 45px);
+}
+
+#db-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
+}
+
+#ir-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
+}
+
+#ntwk-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 150px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(3, 45px);
+}
+
+#para-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
+}
+
+#lang-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
+}
+
+#se-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 150px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(3, 45px);
+}
+
+#othbnd-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 50px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(1, 45px);
+}
+
+#tp-modules {
+  background-color: rgb(192, 231, 161);
+  border-radius: 10px;
+  height: 100px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(2, 45px);
 }

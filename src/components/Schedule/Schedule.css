@@ -1,4 +1,11 @@
-.schedule-container {
+.full-schedule-container {
   display: flex;
   flex-direction: column;
+}
+
+.half-schedule-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  margin-right: -10px;
 }

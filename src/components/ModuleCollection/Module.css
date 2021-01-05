@@ -1,3 +1,14 @@
+.module-block > p {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+}
+
+.ulr {
+  background-color: rgb(238, 165, 8);
+}
+
 .foundation {
   background-color: rgb(238, 165, 8);
 }
@@ -8,4 +19,12 @@
 
 .mns {
   background-color: rgb(32, 214, 190);
+}
+
+.ue {
+  background-color: rgb(124, 197, 64);
+}
+
+.algo {
+  background-color: rgb(124, 197, 64);
 }
