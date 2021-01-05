@@ -133,7 +133,7 @@ class modCollection extends React.Component {
         name:"CS2105",
         category:"foundation",
         mcs:4,
-        id:"CS2105"
+        id:"CS2105p1"
       }, {
         name:"CS2106",
         category:"foundation",
@@ -638,7 +638,7 @@ class modCollection extends React.Component {
         name:"CS2105",
         category:"ntwk",
         mcs:4,
-        id:"CS2105"
+        id:"CS2105p2"
       }, {
         name:"CS3103",
         category:"ntwk",
@@ -899,6 +899,46 @@ class modCollection extends React.Component {
         category:"tp",
         mcs:4,
         id:"CS3284"
+      }, {
+        name:"CP3880",
+        category:"ier",
+        mcs:4,
+        id:"CP3880p1"
+      }, {
+        name:"CP3880",
+        category:"ier",
+        mcs:4,
+        id:"CP3880p2"
+      }, {
+        name:"CP3880",
+        category:"ier",
+        mcs:4,
+        id:"CP3880p3"
+      }, {
+        name:"IS4010",
+        category:"ier",
+        mcs:4,
+        id:"IS4010p1"
+      }, {
+        name:"IS4010",
+        category:"ier",
+        mcs:4,
+        id:"IS4010p2"
+      }, {
+        name:"IS4010",
+        category:"ier",
+        mcs:4,
+        id:"IS4010p3"
+      }, {
+        name:"CP3200",
+        category:"ier",
+        mcs:6,
+        id:"CP3200"
+      }, {
+        name:"CP3202",
+        category:"ier",
+        mcs:6,
+        id:"CP3202"
       }
     ],
 
@@ -1002,7 +1042,7 @@ class modCollection extends React.Component {
         name:"CS2105",
         category:"foundation",
         mcs:4,
-        id:"CS2105"
+        id:"CS2105p1"
       }, {
         name:"CS2106",
         category:"foundation",
@@ -1507,7 +1547,7 @@ class modCollection extends React.Component {
         name:"CS2105",
         category:"ntwk",
         mcs:4,
-        id:"CS2105"
+        id:"CS2105p2"
       }, {
         name:"CS3103",
         category:"ntwk",
@@ -1768,6 +1808,46 @@ class modCollection extends React.Component {
         category:"tp",
         mcs:4,
         id:"CS3284"
+      }, {
+        name:"CP3880",
+        category:"ier",
+        mcs:4,
+        id:"CP3880p1"
+      }, {
+        name:"CP3880",
+        category:"ier",
+        mcs:4,
+        id:"CP3880p2"
+      }, {
+        name:"CP3880",
+        category:"ier",
+        mcs:4,
+        id:"CP3880p3"
+      }, {
+        name:"IS4010",
+        category:"ier",
+        mcs:4,
+        id:"IS4010p1"
+      }, {
+        name:"IS4010",
+        category:"ier",
+        mcs:4,
+        id:"IS4010p2"
+      }, {
+        name:"IS4010",
+        category:"ier",
+        mcs:4,
+        id:"IS4010p3"
+      }, {
+        name:"CP3200",
+        category:"ier",
+        mcs:6,
+        id:"CP3200"
+      }, {
+        name:"CP3202",
+        category:"ier",
+        mcs:6,
+        id:"CP3202"
       }
     ]
   }
@@ -1835,7 +1915,8 @@ class modCollection extends React.Component {
       lang: [],
       se: [],
       othbnd: [],
-      tp: []
+      tp: [],
+      ier: []
     }
 
     this.state.modsImmutable.forEach((m) => {
@@ -1903,6 +1984,13 @@ class modCollection extends React.Component {
           <p>Team Project</p>
           <div className="module-collection-grid" id="tp-modules">
             {mods.tp}
+          </div>
+        </div>
+
+        <div className="module-collection-container">
+          <p>Industrial Experience Requirement</p>
+          <div className="module-collection-grid" id="ier-modules">
+            {mods.ier}
           </div>
         </div>
 
