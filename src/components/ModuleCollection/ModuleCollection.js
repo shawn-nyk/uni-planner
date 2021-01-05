@@ -233,7 +233,7 @@ class modCollection extends React.Component {
         name:"CS4231",
         category:"algo",
         mcs:4,
-        id:"CS4231"
+        id:"CS4231p1"
       }, {
         name:"CS4232",
         category:"algo",
@@ -253,12 +253,12 @@ class modCollection extends React.Component {
         name:"CS4257",
         category:"algo",
         mcs:4,
-        id:"CS4257"
+        id:"CS4257p1"
       }, {
         name:"CS4261",
         category:"algo",
         mcs:4,
-        id:"CS4261"
+        id:"CS4261p1"
       }, {
         name:"CS4268",
         category:"algo",
@@ -268,7 +268,7 @@ class modCollection extends React.Component {
         name:"CS4269",
         category:"algo",
         mcs:4,
-        id:"CS4269"
+        id:"CS4269p1"
       }, {
         name:"CS4330",
         category:"algo",
@@ -293,7 +293,7 @@ class modCollection extends React.Component {
         name:"CS5237",
         category:"algo",
         mcs:4,
-        id:"CS5237"
+        id:"CS5237p1"
       }, {
         name:"CS5238",
         category:"algo",
@@ -318,7 +318,7 @@ class modCollection extends React.Component {
         name:"CS4243",
         category:"ai",
         mcs:4,
-        id:"CS4243"
+        id:"CS4243p1"
       }, {
         name:"CS4244",
         category:"ai",
@@ -338,17 +338,17 @@ class modCollection extends React.Component {
         name:"CS4220",
         category:"ai",
         mcs:4,
-        id:"CS4220"
+        id:"CS4220p1"
       }, {
         name:"CS4261",
         category:"ai",
         mcs:4,
-        id:"CS4261"
+        id:"CS4261p2"
       }, {
         name:"CS4269",
         category:"ai",
         mcs:4,
-        id:"CS4269"
+        id:"CS4269p2"
       }, {
         name:"CS4277",
         category:"ai",
@@ -363,12 +363,12 @@ class modCollection extends React.Component {
         name:"CS5215",
         category:"ai",
         mcs:4,
-        id:"CS5215"
+        id:"CS5215p1"
       }, {
         name:"CS5228",
         category:"ai",
         mcs:4,
-        id:"CS5228"
+        id:"CS5228p1"
       }, {
         name:"CS5242",
         category:"ai",
@@ -438,7 +438,7 @@ class modCollection extends React.Component {
         name:"CS4243",
         category:"graphics",
         mcs:4,
-        id:"CS4243"
+        id:"CS4243p2"
       }, {
         name:"CS4249",
         category:"graphics",
@@ -453,7 +453,7 @@ class modCollection extends React.Component {
         name:"CS5237",
         category:"graphics",
         mcs:4,
-        id:"CS5237"
+        id:"CS5237p2"
       }, {
         name:"CS5240",
         category:"graphics",
@@ -493,7 +493,7 @@ class modCollection extends React.Component {
         name:"CS4239",
         category:"sec",
         mcs:4,
-        id:"CS4239"
+        id:"CS4239p1"
       }, {
         name:"CS3221",
         category:"sec",
@@ -503,7 +503,7 @@ class modCollection extends React.Component {
         name:"CS4257",
         category:"sec",
         mcs:4,
-        id:"CS4257"
+        id:"CS4257p2"
       }, {
         name:"CS4276",
         category:"sec",
@@ -518,7 +518,7 @@ class modCollection extends React.Component {
         name:"CS5250",
         category:"sec",
         mcs:4,
-        id:"CS5250"
+        id:"CS5250p1"
       }, {
         name:"CS5321",
         category:"sec",
@@ -528,7 +528,7 @@ class modCollection extends React.Component {
         name:"CS5322",
         category:"sec",
         mcs:4,
-        id:"CS5322"
+        id:"CS5322p1"
       }, {
         name:"CS5331",
         category:"sec",
@@ -583,7 +583,7 @@ class modCollection extends React.Component {
         name:"CS4220",
         category:"db",
         mcs:4,
-        id:"CS4220"
+        id:"CS4220p2"
       }, {
         name:"CS5226",
         category:"db",
@@ -593,12 +593,12 @@ class modCollection extends React.Component {
         name:"CS5228",
         category:"db",
         mcs:4,
-        id:"CS5228"
+        id:"CS5228p2"
       }, {
         name:"CS5322",
         category:"db",
         mcs:4,
-        id:"CS5322"
+        id:"CS5322p2"
       }, { // multimedia information retrieval
         name:"CS2108",
         category:"ir",
@@ -658,7 +658,7 @@ class modCollection extends React.Component {
         name:"CS4231",
         category:"ntwk",
         mcs:4,
-        id:"CS4231"
+        id:"CS4231p2"
       }, {
         name:"CS3237",
         category:"ntwk",
@@ -673,12 +673,12 @@ class modCollection extends React.Component {
         name:"CS5223",
         category:"ntwk",
         mcs:4,
-        id:"CS5223"
+        id:"CS5223p1"
       }, {
         name:"CS5224",
         category:"ntwk",
         mcs:4,
-        id:"CS5224"
+        id:"CS5224p1"
       }, {
         name:"CS5229",
         category:"ntwk",
@@ -703,12 +703,12 @@ class modCollection extends React.Component {
         name:"CS3211",
         category:"para",
         mcs:4,
-        id:"CS3211"
+        id:"CS3211p1"
       }, {
         name:"CS4231",
         category:"para",
         mcs:4,
-        id:"CS4231"
+        id:"CS4231p3"
       }, {
         name:"CS4223",
         category:"para",
@@ -723,12 +723,12 @@ class modCollection extends React.Component {
         name:"CS5223",
         category:"para",
         mcs:4,
-        id:"CS5223"
+        id:"CS5223p2"
       }, {
         name:"CS5224",
         category:"para",
         mcs:4,
-        id:"CS5224"
+        id:"CS5224p2"
       }, {
         name:"CS5239",
         category:"para",
@@ -738,7 +738,7 @@ class modCollection extends React.Component {
         name:"CS5250",
         category:"para",
         mcs:4,
-        id:"CS5250"
+        id:"CS5250p2"
       }, { // programming languages
         name:"CS2104",
         category:"lang",
@@ -748,7 +748,7 @@ class modCollection extends React.Component {
         name:"CS3211",
         category:"lang",
         mcs:4,
-        id:"CS3211"
+        id:"CS3211p2"
       }, {
         name:"CS4212",
         category:"lang",
@@ -763,7 +763,7 @@ class modCollection extends React.Component {
         name:"CS3234",
         category:"lang",
         mcs:4,
-        id:"CS3234"
+        id:"CS3234p1"
       }, {
         name:"CS4216",
         category:"lang",
@@ -773,7 +773,7 @@ class modCollection extends React.Component {
         name:"CS5232",
         category:"lang",
         mcs:4,
-        id:"CS5232"
+        id:"CS5232p1"
       }, {
         name:"CS5214",
         category:"lang",
@@ -783,7 +783,7 @@ class modCollection extends React.Component {
         name:"CS5215",
         category:"lang",
         mcs:4,
-        id:"CS5215"
+        id:"CS5215p2"
       }, {
         name:"CS5218",
         category:"lang",
@@ -813,17 +813,17 @@ class modCollection extends React.Component {
         name:"CS4239",
         category:"se",
         mcs:4,
-        id:"CS4239"
+        id:"CS4239p2"
       }, {
         name:"CS3216",
         category:"se",
         mcs:4,
-        id:"CS3216"
+        id:"CS3216p1"
       }, {
         name:"CS3217",
         category:"se",
         mcs:4,
-        id:"CS3217"
+        id:"CS3217p1"
       }, {
         name:"CS3226",
         category:"se",
@@ -833,7 +833,7 @@ class modCollection extends React.Component {
         name:"CS3234",
         category:"se",
         mcs:4,
-        id:"CS3234"
+        id:"CS3234p2"
       }, {
         name:"CS5219",
         category:"se",
@@ -843,7 +843,7 @@ class modCollection extends React.Component {
         name:"CS5232",
         category:"se",
         mcs:4,
-        id:"CS5232"
+        id:"CS5232p2"
       }, {
         name:"CS5272",
         category:"se",
@@ -873,12 +873,12 @@ class modCollection extends React.Component {
         name:"CS3216",
         category:"tp",
         mcs:5,
-        id:"CS3216"
+        id:"CS3216p2"
       }, {
         name:"CS3217",
         category:"tp",
         mcs:5,
-        id:"CS3217"
+        id:"CS3217p2"
       }, {
         name:"CS3281",
         category:"tp",
@@ -1142,7 +1142,7 @@ class modCollection extends React.Component {
         name:"CS4231",
         category:"algo",
         mcs:4,
-        id:"CS4231"
+        id:"CS4231p1"
       }, {
         name:"CS4232",
         category:"algo",
@@ -1162,12 +1162,12 @@ class modCollection extends React.Component {
         name:"CS4257",
         category:"algo",
         mcs:4,
-        id:"CS4257"
+        id:"CS4257p1"
       }, {
         name:"CS4261",
         category:"algo",
         mcs:4,
-        id:"CS4261"
+        id:"CS4261p1"
       }, {
         name:"CS4268",
         category:"algo",
@@ -1177,7 +1177,7 @@ class modCollection extends React.Component {
         name:"CS4269",
         category:"algo",
         mcs:4,
-        id:"CS4269"
+        id:"CS4269p1"
       }, {
         name:"CS4330",
         category:"algo",
@@ -1202,7 +1202,7 @@ class modCollection extends React.Component {
         name:"CS5237",
         category:"algo",
         mcs:4,
-        id:"CS5237"
+        id:"CS5237p1"
       }, {
         name:"CS5238",
         category:"algo",
@@ -1227,7 +1227,7 @@ class modCollection extends React.Component {
         name:"CS4243",
         category:"ai",
         mcs:4,
-        id:"CS4243"
+        id:"CS4243p1"
       }, {
         name:"CS4244",
         category:"ai",
@@ -1247,17 +1247,17 @@ class modCollection extends React.Component {
         name:"CS4220",
         category:"ai",
         mcs:4,
-        id:"CS4220"
+        id:"CS4220p1"
       }, {
         name:"CS4261",
         category:"ai",
         mcs:4,
-        id:"CS4261"
+        id:"CS4261p2"
       }, {
         name:"CS4269",
         category:"ai",
         mcs:4,
-        id:"CS4269"
+        id:"CS4269p2"
       }, {
         name:"CS4277",
         category:"ai",
@@ -1272,12 +1272,12 @@ class modCollection extends React.Component {
         name:"CS5215",
         category:"ai",
         mcs:4,
-        id:"CS5215"
+        id:"CS5215p1"
       }, {
         name:"CS5228",
         category:"ai",
         mcs:4,
-        id:"CS5228"
+        id:"CS5228p1"
       }, {
         name:"CS5242",
         category:"ai",
@@ -1347,7 +1347,7 @@ class modCollection extends React.Component {
         name:"CS4243",
         category:"graphics",
         mcs:4,
-        id:"CS4243"
+        id:"CS4243p2"
       }, {
         name:"CS4249",
         category:"graphics",
@@ -1362,7 +1362,7 @@ class modCollection extends React.Component {
         name:"CS5237",
         category:"graphics",
         mcs:4,
-        id:"CS5237"
+        id:"CS5237p2"
       }, {
         name:"CS5240",
         category:"graphics",
@@ -1402,7 +1402,7 @@ class modCollection extends React.Component {
         name:"CS4239",
         category:"sec",
         mcs:4,
-        id:"CS4239"
+        id:"CS4239p1"
       }, {
         name:"CS3221",
         category:"sec",
@@ -1412,7 +1412,7 @@ class modCollection extends React.Component {
         name:"CS4257",
         category:"sec",
         mcs:4,
-        id:"CS4257"
+        id:"CS4257p2"
       }, {
         name:"CS4276",
         category:"sec",
@@ -1427,7 +1427,7 @@ class modCollection extends React.Component {
         name:"CS5250",
         category:"sec",
         mcs:4,
-        id:"CS5250"
+        id:"CS5250p1"
       }, {
         name:"CS5321",
         category:"sec",
@@ -1437,7 +1437,7 @@ class modCollection extends React.Component {
         name:"CS5322",
         category:"sec",
         mcs:4,
-        id:"CS5322"
+        id:"CS5322p1"
       }, {
         name:"CS5331",
         category:"sec",
@@ -1492,7 +1492,7 @@ class modCollection extends React.Component {
         name:"CS4220",
         category:"db",
         mcs:4,
-        id:"CS4220"
+        id:"CS4220p2"
       }, {
         name:"CS5226",
         category:"db",
@@ -1502,12 +1502,12 @@ class modCollection extends React.Component {
         name:"CS5228",
         category:"db",
         mcs:4,
-        id:"CS5228"
+        id:"CS5228p2"
       }, {
         name:"CS5322",
         category:"db",
         mcs:4,
-        id:"CS5322"
+        id:"CS5322p2"
       }, { // multimedia information retrieval
         name:"CS2108",
         category:"ir",
@@ -1567,7 +1567,7 @@ class modCollection extends React.Component {
         name:"CS4231",
         category:"ntwk",
         mcs:4,
-        id:"CS4231"
+        id:"CS4231p2"
       }, {
         name:"CS3237",
         category:"ntwk",
@@ -1582,12 +1582,12 @@ class modCollection extends React.Component {
         name:"CS5223",
         category:"ntwk",
         mcs:4,
-        id:"CS5223"
+        id:"CS5223p1"
       }, {
         name:"CS5224",
         category:"ntwk",
         mcs:4,
-        id:"CS5224"
+        id:"CS5224p1"
       }, {
         name:"CS5229",
         category:"ntwk",
@@ -1612,12 +1612,12 @@ class modCollection extends React.Component {
         name:"CS3211",
         category:"para",
         mcs:4,
-        id:"CS3211"
+        id:"CS3211p1"
       }, {
         name:"CS4231",
         category:"para",
         mcs:4,
-        id:"CS4231"
+        id:"CS4231p3"
       }, {
         name:"CS4223",
         category:"para",
@@ -1632,12 +1632,12 @@ class modCollection extends React.Component {
         name:"CS5223",
         category:"para",
         mcs:4,
-        id:"CS5223"
+        id:"CS5223p2"
       }, {
         name:"CS5224",
         category:"para",
         mcs:4,
-        id:"CS5224"
+        id:"CS5224p2"
       }, {
         name:"CS5239",
         category:"para",
@@ -1647,7 +1647,7 @@ class modCollection extends React.Component {
         name:"CS5250",
         category:"para",
         mcs:4,
-        id:"CS5250"
+        id:"CS5250p2"
       }, { // programming languages
         name:"CS2104",
         category:"lang",
@@ -1657,7 +1657,7 @@ class modCollection extends React.Component {
         name:"CS3211",
         category:"lang",
         mcs:4,
-        id:"CS3211"
+        id:"CS3211p2"
       }, {
         name:"CS4212",
         category:"lang",
@@ -1672,7 +1672,7 @@ class modCollection extends React.Component {
         name:"CS3234",
         category:"lang",
         mcs:4,
-        id:"CS3234"
+        id:"CS3234p1"
       }, {
         name:"CS4216",
         category:"lang",
@@ -1682,7 +1682,7 @@ class modCollection extends React.Component {
         name:"CS5232",
         category:"lang",
         mcs:4,
-        id:"CS5232"
+        id:"CS5232p1"
       }, {
         name:"CS5214",
         category:"lang",
@@ -1692,7 +1692,7 @@ class modCollection extends React.Component {
         name:"CS5215",
         category:"lang",
         mcs:4,
-        id:"CS5215"
+        id:"CS5215p2"
       }, {
         name:"CS5218",
         category:"lang",
@@ -1722,17 +1722,17 @@ class modCollection extends React.Component {
         name:"CS4239",
         category:"se",
         mcs:4,
-        id:"CS4239"
+        id:"CS4239p2"
       }, {
         name:"CS3216",
         category:"se",
         mcs:4,
-        id:"CS3216"
+        id:"CS3216p1"
       }, {
         name:"CS3217",
         category:"se",
         mcs:4,
-        id:"CS3217"
+        id:"CS3217p1"
       }, {
         name:"CS3226",
         category:"se",
@@ -1742,7 +1742,7 @@ class modCollection extends React.Component {
         name:"CS3234",
         category:"se",
         mcs:4,
-        id:"CS3234"
+        id:"CS3234p2"
       }, {
         name:"CS5219",
         category:"se",
@@ -1752,7 +1752,7 @@ class modCollection extends React.Component {
         name:"CS5232",
         category:"se",
         mcs:4,
-        id:"CS5232"
+        id:"CS5232p2"
       }, {
         name:"CS5272",
         category:"se",
@@ -1782,12 +1782,12 @@ class modCollection extends React.Component {
         name:"CS3216",
         category:"tp",
         mcs:5,
-        id:"CS3216"
+        id:"CS3216p2"
       }, {
         name:"CS3217",
         category:"tp",
         mcs:5,
-        id:"CS3217"
+        id:"CS3217p2"
       }, {
         name:"CS3281",
         category:"tp",
