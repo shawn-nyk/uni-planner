@@ -12,6 +12,7 @@ const schedule = () => {
         <Semester />
         <Semester />
         <Semester />
+        <Semester />
       </div>
     </div>
   );

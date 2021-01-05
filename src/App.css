@@ -36,7 +36,7 @@ h1 {
   width: 85px;
   height: 30px;
   margin: 3px;
-  border: 1px solid #31423c;
+  border: 1.3px solid #31423c;
   justify-content: center;
   align-content: center;
   align-items: center;
@@ -60,5 +60,5 @@ body {
   align-content: center;
   width: 80px;
   height: 25px;
-  border-radius: 6px;
+  border-radius: 5px;
 }

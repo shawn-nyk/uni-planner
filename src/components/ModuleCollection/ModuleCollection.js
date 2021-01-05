@@ -523,7 +523,7 @@ class modCollection extends React.Component {
         name:"CS5321",
         category:"sec",
         mcs:4,
-        id:"CS5321"
+        id:"CS5321p1"
       }, {
         name:"CS5322",
         category:"sec",
@@ -693,7 +693,7 @@ class modCollection extends React.Component {
         name:"CS5321",
         category:"ntwk",
         mcs:4,
-        id:"CS5321"
+        id:"CS5321p2"
       }, { // parallel computing
         name:"CS3210",
         category:"para",
@@ -1392,7 +1392,7 @@ class modCollection extends React.Component {
         name:"CS5321",
         category:"sec",
         mcs:4,
-        id:"CS5321"
+        id:"CS5321p1"
       }, {
         name:"CS5322",
         category:"sec",
@@ -1562,7 +1562,7 @@ class modCollection extends React.Component {
         name:"CS5321",
         category:"ntwk",
         mcs:4,
-        id:"CS5321"
+        id:"CS5321p2"
       }, { // parallel computing
         name:"CS3210",
         category:"para",
@@ -1907,7 +1907,7 @@ class modCollection extends React.Component {
         </div>
 
         <div className="module-collection-container">
-          <p>Algorithms & Theory</p>
+          <p>Algorithms and Theory</p>
           <div className="module-collection-grid" id="algo-modules">
             {mods.algo}
           </div>
@@ -1921,7 +1921,7 @@ class modCollection extends React.Component {
         </div>
 
         <div className="module-collection-container">
-          <p>Computer Graphics & Games</p>
+          <p>Computer Graphics and Games</p>
           <div className="module-collection-grid" id="graphics-modules">
             {mods.graphics}
           </div>
@@ -1977,7 +1977,7 @@ class modCollection extends React.Component {
         </div>
 
         <div className="module-collection-container">
-          <p>Other Breadth & Depth</p>
+          <p>Other Breadth and Depth</p>
           <div className="module-collection-grid" id="othbnd-modules">
             {mods.othbnd}
           </div>

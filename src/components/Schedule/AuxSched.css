@@ -7,11 +7,13 @@
   align-items: center;
   background-color: #73a08f;
   border-radius: 12px;
+  margin-top: 5px;
+  margin-bottom: 20px;
 }
 
 .parent-container > p {
   margin-top: 8px;
-  margin-bottom: 2px;
+  margin-bottom: -10px;
   font-family: kopius, serif;
   font-weight: 600;
   font-style: normal;

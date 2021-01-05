@@ -56,7 +56,7 @@
 }
 
 #ulr-modules {
-  background-color: rgb(240, 214, 160);
+  background-color: #b2e0ea;
   border-radius: 10px;
   height: 150px;
   grid-template-columns: repeat(5, 100px);
@@ -72,7 +72,7 @@
 }
 
 #itp-modules {
-  background-color: rgb(253, 204, 253);
+  background-color: #b8d6f4;
   border-radius: 10px;
   height: 60px;
   grid-template-columns: repeat(5, 100px);
@@ -80,7 +80,7 @@
 }
 
 #mns-modules {
-  background-color: rgb(174, 245, 236);
+  background-color: #a7eae2;
   border-radius: 10px;
   height: 60px;
   grid-template-columns: repeat(5, 100px);
@@ -88,7 +88,7 @@
 }
 
 #ue-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #b2e0ea;
   border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);
@@ -96,7 +96,7 @@
 }
 
 #algo-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #f4eed4;
   border-radius: 10px;
   height: 200px;
   grid-template-columns: repeat(5, 100px);
@@ -104,7 +104,7 @@
 }
 
 #ai-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #eac5d6;
   border-radius: 10px;
   height: 200px;
   grid-template-columns: repeat(5, 100px);
@@ -112,7 +112,7 @@
 }
 
 #graphics-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #ddcef4;
   border-radius: 10px;
   height: 200px;
   grid-template-columns: repeat(5, 100px);
@@ -120,7 +120,7 @@
 }
 
 #sec-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #89aadb;
   border-radius: 10px;
   height: 200px;
   grid-template-columns: repeat(5, 100px);
@@ -128,7 +128,7 @@
 }
 
 #db-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #a5b7b0;
   border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);
@@ -136,7 +136,7 @@
 }
 
 #ir-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #e0bce2;
   border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);
@@ -144,7 +144,7 @@
 }
 
 #ntwk-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #f4c3cc;
   border-radius: 10px;
   height: 150px;
   grid-template-columns: repeat(5, 100px);
@@ -152,7 +152,7 @@
 }
 
 #para-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #efcac5;
   border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);
@@ -160,7 +160,7 @@
 }
 
 #lang-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #94c0ed;
   border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);
@@ -168,7 +168,7 @@
 }
 
 #se-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #bed8ad;
   border-radius: 10px;
   height: 150px;
   grid-template-columns: repeat(5, 100px);
@@ -176,7 +176,7 @@
 }
 
 #othbnd-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #a5d6bb;
   border-radius: 10px;
   height: 50px;
   grid-template-columns: repeat(5, 100px);
@@ -184,7 +184,7 @@
 }
 
 #tp-modules {
-  background-color: rgb(192, 231, 161);
+  background-color: #f4d0b8;
   border-radius: 10px;
   height: 100px;
   grid-template-columns: repeat(5, 100px);

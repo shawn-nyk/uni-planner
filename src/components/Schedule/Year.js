@@ -9,6 +9,7 @@ const year = (props) => {
       <div id="year-container">
         <Semester />
         <Semester />
+        <Semester />
       </div>
     </div>
   );
