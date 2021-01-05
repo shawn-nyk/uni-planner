@@ -1879,7 +1879,7 @@ class modCollection extends React.Component {
     const drop = (ev) => {
       ev.preventDefault();
       var data = ev.dataTransfer.getData("text"); // data == module name
-      if (document.getElementById(data).innerHTML === ev.target.outerHTML) {
+      if (document.getElementById(data) === null || document.getElementById(data).innerHTML === ev.target.outerHTML) {
         // do nothing
       } else {
         ev.target.appendChild(document.getElementById(data));

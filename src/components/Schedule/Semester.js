@@ -4,7 +4,7 @@ import "./Semester.css";
 const semester = () => {
   const drop = (ev) => {
     var data = ev.dataTransfer.getData("text");
-    if (document.getElementById(data).outerHTML === ev.target.innerHTML) {
+    if (document.getElementById(data) === null || document.getElementById(data).outerHTML === ev.target.innerHTML) {
       // do nothing
     } else {
       ev.target.appendChild(document.getElementById(data));
