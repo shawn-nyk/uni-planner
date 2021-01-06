@@ -6,7 +6,7 @@ const schedule = () => {
 
   return (
     <div className="parent-container">
-      <p>Others</p>
+      <p>Other Time Periods / Extras</p>
       <div className="aux-schedule-container">
         <Semester />
         <Semester />
